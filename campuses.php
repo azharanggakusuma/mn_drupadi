@@ -1,0 +1,27 @@
+<?php
+$campuses = [
+  ['number' => '1', 'width' => '50px', 'logo' => '1.png'],
+  ['number' => '2', 'width' => '50px', 'logo' => '2.png'],
+  ['number' => '3', 'width' => '50px', 'logo' => '3.png'],
+  ['number' => '4', 'width' => '70px', 'logo' => '4.jpeg'],
+  ['number' => '5', 'width' => '50px', 'logo' => '5.png'],
+  ['number' => '6', 'width' => '50px', 'logo' => '6.png'],
+  ['number' => '7', 'width' => '50px', 'logo' => '7.png'],
+  ['number' => '8', 'width' => '50px', 'logo' => '8.png'],
+  ['number' => '9', 'width' => '50px', 'logo' => '9.png'],
+  ['number' => '10', 'width' => '50px', 'logo' => '10.png'],
+  ['number' => '11', 'width' => '50px', 'logo' => '11.png'],
+  ['number' => '12', 'width' => '50px', 'logo' => '12.jpg'],
+  ['number' => '13', 'width' => '50px', 'logo' => '13.png'],
+  ['number' => '14', 'width' => '50px', 'logo' => '14.png'],
+  ['number' => '15', 'width' => '50px', 'logo' => '15.png'],
+  ['number' => '16', 'width' => '50px', 'logo' => '16.jpeg'],
+  ['number' => '17', 'width' => '50px', 'logo' => '17.png'],
+  ['number' => '18', 'width' => '50px', 'logo' => '18.png'],
+  ['number' => '19', 'width' => '50px', 'logo' => '19.png'],
+  ['number' => '20', 'width' => '50px', 'logo' => '20.jpeg'],
+  ['number' => '21', 'width' => '50px', 'logo' => '21.png'],
+  ['number' => '22', 'width' => '50px', 'logo' => '22.png'],
+  ['number' => '23', 'width' => '50px', 'logo' => '23.png'],
+];
+?>
